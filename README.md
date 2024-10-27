@@ -54,7 +54,7 @@
 
 <!-- SOBRE O PROJETO -->
 ## About The Project
-This was my first game, and one of the earliest codes I've ever made, so its very messy and confusing. I do plan to revisit this project to make it better to understand, but in that time, I didnt know how to use a library nor architecture, so, it gonna be as it is for a long time. The Legend of Otomarih was build with a lot of lore in mind, but my self from 2020 wast able to implement it. Anyways, it was amazing to learn code and gamedev through this project.
+This was my first game, and one of the earliest codes I've ever made, so its very messy and confusing. I do plan to revisit this project to make it better to understand, but in that time, I didnt know how to use a library nor architecture, so, it gonna be as it is for a long time. The Legend of Otomarih was build with a lot of lore in mind, but my self from 2020 wasnt able to implement it. Anyways, it was amazing to learn code and gamedev through this project.
 </br>
 
 <!-- Funcionalidades -->
