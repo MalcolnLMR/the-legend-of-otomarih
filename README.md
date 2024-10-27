@@ -65,7 +65,7 @@ Well, the game was only done with Java, back then, I didnt know how to use any l
 
 <!-- END: Funcionalidades -->
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">top</a>)</p>
 <!-- END: Descrição de projeto -->
 
 <!-- Como Executar o Projeto -->
@@ -79,7 +79,7 @@ Well, the game was only done with Java, back then, I didnt know how to use any l
 3. Run game.java
 4. Have fun :D
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">top</a>)</p>
 <!-- END: Como Executar o Projeto -->
 
 <!-- Capturas de tela -->
@@ -91,7 +91,7 @@ Well, the game was only done with Java, back then, I didnt know how to use any l
   <img src="readme-images/level_02.png" alt="Menu" width="360" height="250">
 </div>
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">top</a>)</p>
 <!-- END: Capturas de tela -->
 
 <!-- Futuras Melhorias -->
@@ -100,13 +100,13 @@ Well, the game was only done with Java, back then, I didnt know how to use any l
 2. 2 more levels and a boss battle
 3. Music and SFX
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">top</a>)</p>
 <!-- END: Futuras Melhorias -->
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">top</a>)</p>
 <!-- END: LICENSE -->
