@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="the-legend-of-otomarih:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/the_legend_of_otomarih_jar</output-path>
+    <root id="archive" name="the-legend-of-otomarih.jar">
+      <element id="module-output" name="the-legend-of-otomarih" />
+    </root>
+  </artifact>
+</component>
