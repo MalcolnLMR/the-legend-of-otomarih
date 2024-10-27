@@ -9,7 +9,7 @@
   <h2 align="center">The Legend of Otomarih</h2>
 
   <p align="center">
-    This is my first ever game!
+    This is my first game ever!
     <br/>
   </p>
 </div>
@@ -54,7 +54,7 @@
 
 <!-- SOBRE O PROJETO -->
 ## About The Project
-This was my first game, and one of the earliest codes I've ever made, so its very messy and confusing. I do plan to revisit this project to make it better to understand, but in that time, I didnt know how to use a library nor architecture, so, it gonna be as it is for a long time. The Legend of Otomarih was build with a lot of lore in mind, but my self from 2020 wasnt able to implement it. Anyways, it was amazing to learn code and gamedev through this project.
+This was my first game, and one of the earliest codes I've ever made, so its very messy and confusing. I do plan to revisit this project to make it better to understand. During development, I didnt know how to use a library nor architecture, so, it gonna be as it is for a long time. The Legend of Otomarih was build with a lot of lore in mind, but my self from 2020 wasnt able to implement it. Anyways, it was amazing to learn code and gamedev through this project.
 </br>
 
 <!-- Funcionalidades -->
@@ -96,7 +96,7 @@ Well, the game was only done with Java, back then, I didnt know how to use any l
 
 <!-- Futuras Melhorias -->
 ## Future Plans
-1. English version (yes, the menu is in brazillian portuguese only)
+1. English version (yes, the menu is in brazilian portuguese only)
 2. 2 more levels and a boss battle
 3. Music and SFX
 
