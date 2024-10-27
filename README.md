@@ -23,7 +23,7 @@
     <li>
       <a href="#about-the-project">About the Project</a>
       <ul>
-        <li><a href="#build-with">Build With</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <!-- Segundo: Descrição (com sublista) -->
@@ -58,7 +58,7 @@ This was my first game, and one of the earliest codes I've ever made, so its ver
 </br>
 
 <!-- Funcionalidades -->
-#### Build With
+#### Built With
 Well, the game was only done with Java, back then, I didnt know how to use any library, nor import them with gradle XD
 
 - **Java** 
